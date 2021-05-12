@@ -2,4 +2,6 @@ hola
 
 ya no es hola es adios
 
-buenas tardes distinguido caballero
+buenas tardes distinguido caballero.
+
+Adios distinguido caballero.
